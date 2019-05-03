@@ -133,11 +133,11 @@ Example of vertical wrapping:
 
 MazeSolver is the executable class.
 
-Breading First Search Algorithm has been used to solve the exercise.
+Breading First Search Algorithm has been used to solve the exercise.<br/>
 Also, I have added an extra file selection mode.
 
-Its use is very simple, once you run the application, it will ask you how you want to load the .txt file.
-Press 1 to display the available files. Then, you can select the file you want, indicating the position in which they are displayed (e.g. 3).
+Its use is very simple, once you run the application, it will ask you how you want to load the .txt file.<br/>
+Press 1 to display the available files. Then, you can select the file you want, indicating the position in which they are displayed (e.g. 3).<br/>
 Press 2 to specify full directory including the file name (e.g. C:\...\input.txt).
 
 
